@@ -10,4 +10,7 @@ Hi there! I am a physicist turned climate scientist with interests in atmospherc
 
 In my free time I enjoy playing [chess](https://www.chess.com/member/lokahithagasthya), going on a [run](https://www.strava.com/athletes/98088828) or curling up with a good (e-)book. 
 
-I'm currently reading "India: A Million Mutinies Now" by V.S. Naipaul. (December 2025)
+I'm currently reading ["India: A Million Mutinies Now"](https://www.goodreads.com/book/show/55676.India) by [V.S. Naipaul](https://en.wikipedia.org/wiki/V._S._Naipaul) (December 2025). 
+
+## Current Research
+I am currently interested in how free tropospheric and stratospheric turbulence impacts the transport of aerosols and trace gases in the atmosphere. 
