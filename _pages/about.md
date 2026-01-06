@@ -17,7 +17,7 @@ I am currently interested in how turbulence above the atmospheric boundary layer
 
 The dynamics of moist convection holds many mysteries, particularly related to the updraft speed in clouds. Together with collaborators, I am studying the mechanisms that set the updraft velocity in a particular cloud and how well this can be predicted from pre-storm conditions. We use some exciting new tools like Distribution Regression and Equation Discovery.
 
-##Previous Work
+## Previous Work
 I have previously worked on studying the fundamental fluid instabilities and the resulting convection in idealised models of [internally cooled dry convection](https://doi.org/10.1016/j.cnsns.2024.108011) and [moist convection](https://doi.org/10.1002/qj.4902). 
 
 Prior to that I studied the assimilation of Rayleigh-Bénard convection [using Physics Informed Neural Networks](https://link.springer.com/article/10.1140/epje/s10189-023-00276-9) and [using equation based dynamic methods](https://doi.org/10.1063/5.0079625). 
